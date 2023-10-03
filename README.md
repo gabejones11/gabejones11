@@ -1,3 +1,4 @@
 ### Hi there, I'm Gabriel 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabejones11&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabejones11&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
